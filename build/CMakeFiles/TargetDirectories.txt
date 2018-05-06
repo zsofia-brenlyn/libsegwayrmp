@@ -1,0 +1,9 @@
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/install.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/list_install_components.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/rebuild_cache.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/edit_cache.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/install/local.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/segwayrmp.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/install/strip.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/segwayrmp_example.dir
+/home/predator/Documents/Project/temp/libsegwayrmp/build/CMakeFiles/uninstall.dir

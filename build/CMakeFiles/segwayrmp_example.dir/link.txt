@@ -1,0 +1,1 @@
+/usr/bin/c++   -O2 -g -DNDEBUG   CMakeFiles/segwayrmp_example.dir/examples/segwayrmp_example.cc.o  -o ../bin/segwayrmp_example -rdynamic ../lib/libsegwayrmp.a -lboost_system -lboost_thread ../ftd2xx/linux/x64/libftd2xx.a -ldl -lrt -lpthread 

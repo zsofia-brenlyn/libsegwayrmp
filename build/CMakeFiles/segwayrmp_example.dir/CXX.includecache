@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/segwayrmp/segwayrmp.h
+exception
+-
+sstream
+-
+queue
+-
+typeinfo
+-
+boost/function.hpp
+-
+boost/thread.hpp
+-
+stdint.h
+-
+
+/home/predator/Documents/Project/temp/libsegwayrmp/examples/segwayrmp_example.cc
+iostream
+-
+string
+-
+algorithm
+-
+segwayrmp/segwayrmp.h
+/home/predator/Documents/Project/temp/libsegwayrmp/examples/segwayrmp/segwayrmp.h
+
